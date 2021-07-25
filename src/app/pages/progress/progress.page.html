@@ -1,0 +1,12 @@
+<app-header titulo="Progress"></app-header>
+
+
+<ion-content class="ion-padding">
+  <h4>Progress {{ progressValue * 100 | number }}%</h4>
+  <ion-progress-bar [value]="progressValue"></ion-progress-bar>
+  <ion-button (click)="runProgress()" expand="block">
+    Download
+  </ion-button>
+
+
+</ion-content>

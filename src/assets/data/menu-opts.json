@@ -1,0 +1,97 @@
+[
+  {
+    "icon": "american-football-outline",
+    "name": "Action Sheet",
+    "redirectTo": "/action-sheet"
+  },
+  {
+    "icon": "alert-circle-outline",
+    "name": "Alert",
+    "redirectTo": "/alert"
+  },
+  {
+    "icon": "person-circle-outline",
+    "name": "Avatar",
+    "redirectTo": "/avatar"
+  },
+  {
+    "icon": "radio-button-off-outline",
+    "name": "Buttons",
+    "redirectTo": "/button"
+  },
+  {
+    "icon": "card-outline",
+    "name": "Cards",
+    "redirectTo": "/card"
+  },
+  {
+    "icon": "checkmark-circle-outline",
+    "name": "CheckBox",
+    "redirectTo": "/checkbox"
+  },
+  {
+    "icon": "calendar-outline",
+    "name": "DateTime",
+    "redirectTo": "/date-time"
+  },
+  {
+    "icon": "car-outline",
+    "name": "Fab",
+    "redirectTo": "/fab"
+  },
+  {
+    "icon": "grid-outline",
+    "name": "Grid",
+    "redirectTo": "/grid"
+  },
+  {
+    "icon": "infinite-outline",
+    "name": "Infinite-Scroll",
+    "redirectTo": "/infinite"
+  },
+  {
+    "icon": "hammer-outline",
+    "name": "Input Forms",
+    "redirectTo": "/input"
+  },
+  {
+    "icon": "list-outline",
+    "name": "List - Sliding",
+    "redirectTo": "/list"
+  },
+  {
+    "icon": "reorder-three-outline",
+    "name": "List - Reorder",
+    "redirectTo": "/list-reorder"
+  },
+  {
+    "icon": "refresh-circle-outline",
+    "name": "Loading",
+    "redirectTo": "/loading"
+  },
+  {
+    "icon": "phone-portrait-outline",
+    "name": "Modal",
+    "redirectTo": "/modal"
+  },
+  {
+    "icon": "barcode-outline",
+    "name": "Progress",
+    "redirectTo": "/progress"
+  },
+  {
+    "icon": "refresh-circle-outline",
+    "name": "refresher",
+    "redirectTo": "/refresher"
+  },
+  {
+    "icon": "caret-forward-circle-outline",
+    "name": "Slides",
+    "redirectTo": "/slides"
+  },
+  {
+    "icon": "caret-forward-circle-outline",
+    "name": "Toast",
+    "redirectTo": "/toast"
+  }
+]
